@@ -8,3 +8,6 @@ With a user-friendly interface and intuitive visualization, NetOpsVA's Resource 
 Explore the power of NetOpsVA Resource Monitoring as we delve into each aspect—CPU Usage, Memory Utilization, Disk Usage, and Connected NIC Usage—unveiling a solution that enhances system performance and elevates network management to new heights.
 
 NetOpsVA introduces a specialized feature focused on monitoring and optimizing Connected Network Interface Card (NIC) Usage. This tool plays a pivotal role in ensuring network efficiency by providing real-time insights into the utilization of NICs.
+
+Email: netopsva@gmail.com
+site: https://netopsva.com
